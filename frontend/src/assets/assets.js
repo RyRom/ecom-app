@@ -12,6 +12,7 @@ import about_img from './about_img.png'
 import exchange_icon from './exchange_icon.png'
 import cross_icon from './cross_icon.png'
 import dropdown_icon from './dropdown_icon.png'
+import hero_img from './hero_img.jpg'
 
 export const assets = {
     menu_icon,
@@ -24,7 +25,8 @@ export const assets = {
     about_img,
     exchange_icon,
     cross_icon,
-    dropdown_icon
+    dropdown_icon,
+    hero_img
 }
 
 export const products = [
